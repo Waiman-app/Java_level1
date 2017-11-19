@@ -1,2 +1,2 @@
-1st add  中文乱码问题：用Notepad++打开，以UTF-8 （无BOM）格式编码保存
+
 2nd add  Add a new line sencond times
